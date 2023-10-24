@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "9d4cdfe3-c492-459a-8ccc-5df0556276dd",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjzp3v.webp",
+	 "title": "x8 speeder higgs domino 1",
+	 "text": "if you're looking to speed up games or applications on your Android device, I would recommend considering alternative, legitimate methods such as optimizing your device's performance, closing background apps, or using built-in features (if available) for speeding up processes.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjzb6J.webp",
+	 "title": "x8 speeder higgs domino 2",
+	 "text": "Additionally, it's essential to exercise caution when downloading and installing APK files from unofficial sources, as they may contain malware or other security threats",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjztCg.webp",
+	 "title": "x8 speeder higgs domino 3",
+	 "text": "It's always safer to download apps from the official Google Play Store, as these are thoroughly vetted for security and functionality.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjzLj1.webp",
+	 "title": "x8 speeder higgs domino 4",
+	 "text": "I would strongly advise against using modded APKs, both for ethical and security reasons",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjzQZF.webp",
+	 "title": "x8 speeder higgs domino 5",
+	 "text": "It's important to respect the rights of app developers and the terms of service for the apps you use.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjzDGa.webp",
+	 "title": "x8 speeder higgs domino 6",
+	 "text": "It's important to respect the rights of app developers and the terms of service for the apps you use.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
